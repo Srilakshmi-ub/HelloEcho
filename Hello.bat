@@ -1,2 +1,2 @@
-Echo "Hello World"
-Echo "I am Defect"
+echo "Hello World"
+echo "I am Defect"
