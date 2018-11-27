@@ -1,2 +1,2 @@
-Echo "Hello World"
-Echo "I am RFE"
+echo "Hello World"
+echo "I am RFE"
